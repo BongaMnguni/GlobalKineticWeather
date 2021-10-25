@@ -1,0 +1,3 @@
+
+rootProject.name = "Global Kinetic Weather"
+include ':app'
